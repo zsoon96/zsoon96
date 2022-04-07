@@ -26,7 +26,7 @@
   <h3 align="center">✨ About me ✨ </h3>
 <p align="center" float="left">
 
-<a href=""><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=https://www.instagram.com/ryu_ri_m/?hl=ko"/></a>
+<a href=""><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=https://zsoon-developer.tistory.com/"/></a>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsoon96&show_icons=true&theme=tokyonight) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsoon96&layout=compact&theme=tokyonight)
